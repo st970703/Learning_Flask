@@ -51,3 +51,10 @@ contribute, including reporting issues, requesting features, asking or answering
 questions, and making PRs.
 
 [contrib]: https://palletsprojects.com/contributing/
+
+
+## Notes from following the tutorial
+How to run:
+- Activate the vortual env
+- Running the app: flask --app flaskr run --debug
+- Initialise the DB: flask --app flaskr init-db
